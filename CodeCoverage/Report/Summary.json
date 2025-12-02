@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "generatedon": "2025-12-02T08:30:31Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 1,
+    "classes": 3,
+    "files": 3,
+    "coveredlines": 60,
+    "uncoveredlines": 16,
+    "coverablelines": 76,
+    "totallines": 147,
+    "linecoverage": 78.9,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 10,
+    "totalmethods": 10,
+    "methodcoverage": 100
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Assembly-CSharp", "classes": 3, "coverage": 78.9, "coveredlines": 60, "coverablelines": 76, "totallines": 147, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 10, "totalmethods": 10, "classesinassembly": [
+        { "name": "HouseController", "coverage": 78.2, "coveredlines": 18, "coverablelines": 23, "totallines": 46, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 },
+        { "name": "MoonController", "coverage": 100, "coveredlines": 7, "coverablelines": 7, "totallines": 22, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "SpacialMovement", "coverage": 76, "coveredlines": 35, "coverablelines": 46, "totallines": 79, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 } ] } ]
+  }
+}
