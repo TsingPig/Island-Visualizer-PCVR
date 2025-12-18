@@ -1,5 +1,6 @@
 using Mirror;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(NetworkManager))]
 public class AutoStartServer : MonoBehaviour
@@ -18,4 +19,5 @@ public class AutoStartServer : MonoBehaviour
     {
         
     }
+
 }
