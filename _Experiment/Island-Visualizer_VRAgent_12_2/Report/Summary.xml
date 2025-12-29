@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>2025/12/2 - 16:30:31</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>1</Assemblies>
+    <Classes>3</Classes>
+    <Files>3</Files>
+    <Coveredlines>60</Coveredlines>
+    <Uncoveredlines>16</Uncoveredlines>
+    <Coverablelines>76</Coverablelines>
+    <Totallines>147</Totallines>
+    <Linecoverage>78.9</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>10</Coveredmethods>
+    <Totalmethods>10</Totalmethods>
+    <Methodcoverage>100</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="3" coverage="78.9" coveredlines="60" coverablelines="76" totallines="147" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="10" methodcoverage="100">
+      <Class name="HouseController" coverage="78.2" coveredlines="18" coverablelines="23" totallines="46" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="MoonController" coverage="100" coveredlines="7" coverablelines="7" totallines="22" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="2" methodcoverage="100" />
+      <Class name="SpacialMovement" coverage="76" coveredlines="35" coverablelines="46" totallines="79" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
